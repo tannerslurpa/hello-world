@@ -1,3 +1,3 @@
 # hello-world
 My name is Tanner, I am new to GitHub
-I am a Product Manager who enjoys the outdoors and lifting weights
+and I am a Product Manager who enjoys the outdoors and lifting weights
